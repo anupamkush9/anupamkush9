@@ -29,7 +29,6 @@
 
 ### Backend Technologies
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-
 ![Django](https://img.shields.io/badge/-Django-000?&logo=Django&logoColor=103e2e)
 ![Celery](https://img.shields.io/badge/-Celery-000?&logo=celery&logoColor=aacd59)
 ![Flask](https://img.shields.io/badge/-Flask-000?&logo=Flask&logoColor=ffffff)
