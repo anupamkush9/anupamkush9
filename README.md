@@ -9,80 +9,64 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/https://linkedin.com/in/anupam-kushwaha-profile" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/anupam-kushwaha-profile" height="30" width="40" />
+
+  <a href="https://linkedin.com/in/anupam-kushwaha-profile" target="blank">
+
+![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0065c6)
   </a>
-  <a href="https://www.youtube.com/c/https://www.youtube.com/@placementupdatesbyanupam1425/videos" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@placementupdatesbyanupam1425/videos" height="30" width="40" />
+  <a href="https://www.youtube.com/@placementupdatesbyanupam1425/videos" target="blank">
+![YouTube](https://img.shields.io/badge/-YouTube-000?&logo=YouTube&logoColor=ff0014)
   </a>
-  <a href="https://www.hackerrank.com/https://www.hackerrank.com/0829cs161025_anu?hr_r=1" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/0829cs161025_anu?hr_r=1" height="30" width="40" />
+  <a href="https://www.hackerrank.com/0829cs161025_anu" target="blank">![HackerRank](https://img.shields.io/badge/-HackerRank-000?&logo=HackerRank)
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
-  </a>
-    <a href="https://docs.celeryq.dev/en/stable/#/" target="_blank" rel="noreferrer">
-    <code><img height="40" src="https://img.stackshare.io/service/1075/celery.png" /></code>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://heroku.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://redis.io" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
-  </a>
-  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>
-  </a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
-  </a>
-</p>
+### Frontend Technologies
+![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS3-000?&logo=css3&logoColor=1d49e2)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)![Jinja](https://img.shields.io/badge/-Jinja-000?&logo=Jinja)
+
+### Backend Technologies
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+
+![Django](https://img.shields.io/badge/-Django-000?&logo=Django&logoColor=103e2e)
+![Celery](https://img.shields.io/badge/-Celery-000?&logo=celery&logoColor=aacd59)
+![Flask](https://img.shields.io/badge/-Flask-000?&logo=Flask&logoColor=ffffff)
+
+### Databases
+![SQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
+![amazondynamodb](https://img.shields.io/badge/-AmazonDynamoDB-000?&logo=amazondynamodb)
+![Redis](https://img.shields.io/badge/-Redis-000?&logo=redis)
+
+### AWS Services
+![amazonec2](https://img.shields.io/badge/-Amazon_EC2-000?&logo=amazonec2)
+![amazonrds](https://img.shields.io/badge/-Amazon_RDS-000?&logo=amazonrds)
+![amazons3](https://img.shields.io/badge/-amazons3-000?&logo=amazons3)
+![amazonapigateway](https://img.shields.io/badge/-Amazon_API_Gateway-000?&logo=amazonapigateway)
+![amazoncloudwatch](https://img.shields.io/badge/-Amazon_CloudWatch-000?&logo=amazoncloudwatch)
+![serverless](https://img.shields.io/badge/-Serverless-000?&logo=serverless)
+![awslambda](https://img.shields.io/badge/-awslambda-000?&logo=awslambda)
+
+### Web Scrapping
+![selenium](https://img.shields.io/badge/-Selenium-000?&logo=selenium)
+![curl](https://img.shields.io/badge/-curl-000?&logo=curl)
+
+### Development Tools
+![visualstudiocode](https://img.shields.io/badge/-Visual_Studio_code-000?&logo=visualstudiocode&logoColor=21a3f1)
+![Pycharm](https://img.shields.io/badge/-Pycharm-000?&logo=pycharm&logoColor=22d38b)
+![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
+![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
+![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
+![GitLab](https://img.shields.io/badge/-GitLab-000?&logo=GitLab)
+![Bitbucket](https://img.shields.io/badge/-Bitbucket-000?&logo=Bitbucket&logoColor=217ef5)
+
+
+### Devops
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-000?&logo=Ubuntu)
 
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anupamkush9&show_icons=true&locale=en&layout=compact" alt="anupamkush9" />
