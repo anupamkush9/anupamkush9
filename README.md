@@ -1,11 +1,28 @@
 <h1 align="center">
   Hi there, This is Anupam Kushwaha!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  <h3 align="center">A Passionate Backend Developer From Indore, India.</h3>
 </h1>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=anupamkush9&label=Profile%20views&color=0e75b6&style=flat" alt="anupamkush9" />
-</p>
+<br>
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <span style="flex: 1; margin-bottom: 0;">
+    
+## Introduction
+  </span>
+  <div>
+    <img src="https://komarev.com/ghpvc/?username=anupamkush9&label=Profile%20views&color=0e75b6&style=flat" alt="anupamkush9" />
+  </div>
+</div>
+
+
+
+
+
+I am a highly skilled Software Engineer with over 2 years of experience in the fields of IoT, GRC, Health Care and Educational Domains. My passion lies in Python Django development, particularly in backend development. I thoroughly enjoy working with server-related tasks such as project deployment, AWS, EC2, Nginx, and more. My expertise extends to solving complex business problems through software solutions.
+<br>
+<br>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -20,6 +37,12 @@
   <a href="https://www.hackerrank.com/0829cs161025_anu" target="blank">![HackerRank](https://img.shields.io/badge/-HackerRank-000?&logo=HackerRank)
   </a>
 </p>
+
+
+<br>
+
+## Technical Strengths
+<hr>
 
 ### Frontend Technologies
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
@@ -67,6 +90,6 @@
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-000?&logo=Ubuntu)
 
-<p>
+<!-- <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anupamkush9&show_icons=true&locale=en&layout=compact" alt="anupamkush9" />
-</p>
+</p> -->
