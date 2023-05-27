@@ -42,7 +42,6 @@ I am a highly skilled Software Engineer with over 2 years of experience in the f
 <br>
 
 ## Technical Strengths
-<hr>
 
 ### Frontend Technologies
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
