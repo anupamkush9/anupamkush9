@@ -27,8 +27,8 @@ I am a highly skilled Software Engineer with over 2 years of experience in the f
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-  <a href="https://linkedin.com/in/anupam-kushwaha-profile" target="blank">
-
+  <a href="https://linkedin.com/in/anupam-kushwaha-profile" 
+  target="blank">
 ![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0065c6)
   </a>
   <a href="https://www.youtube.com/@placementupdatesbyanupam1425/videos" target="blank">
