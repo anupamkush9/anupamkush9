@@ -19,7 +19,7 @@
 
 
 
-I am a highly skilled Software Engineer with over 2 years of experience in the fields of IoT, GRC, Health Care and Educational Domains. My passion lies in Python Django development, particularly in backend development. I thoroughly enjoy working with server-related tasks such as project deployment, AWS, EC2, Nginx, and more. My expertise extends to solving complex business problems through software solutions.
+I am a highly skilled Software Engineer with over 3 years of experience in the fields of IoT, GRC, Health Care and Educational Domains. My passion lies in Python Django development, particularly in backend development. I thoroughly enjoy working with server-related tasks such as project deployment, AWS, EC2, Nginx, and more. My expertise extends to solving complex business problems through software solutions.
 <br>
 <br>
 
