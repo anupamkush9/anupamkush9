@@ -96,7 +96,7 @@ I am a highly skilled Software Engineer with over 3 years of experience in the f
 ### Project Repositories Index
 ---
 
-### Django_notes 1
+### 1) Django_notes
   1. [Atomicity_concept_in_django](https://github.com/anupamkush9/django_notes/tree/Atomicity_concept_in_django)
   2. [Google-sso](https://github.com/anupamkush9/django_notes/tree/Google-sso)
   3. [main](https://github.com/anupamkush9/django_notes/tree/main)
@@ -122,7 +122,7 @@ I am a highly skilled Software Engineer with over 3 years of experience in the f
 
 ---
 
-### Collections_of_movie_backend_assignment 2
+### 2) Collections_of_movie_backend_assignment
 1. [main](https://github.com/anupamkush9/Collections_of_movie_backend_assignment/tree/main)
 2. [Permission-add-functionality-by-UserPermissionCredit-table](https://github.com/anupamkush9/Collections_of_movie_backend_assignment/tree/Permission-add-functionality-by-UserPermissionCredit-table)
 3. [swagger-openapi-3.0-multiple-responses-for-1-status-code-implementation-by-drf-spectacular](https://github.com/anupamkush9/Collections_of_movie_backend_assignment/tree/swagger-openapi-3.0-multiple-responses-for-1-status-code-implementation-by-drf-spectacular)
@@ -133,12 +133,12 @@ I am a highly skilled Software Engineer with over 3 years of experience in the f
 
 ---
 
-### images-and-files-handling-in-django 3
-1. [main](https://github.com/anupamkush9/images-and-files-handling-in-django/tree/main)
+### 3) images-and-files-handling-in-django
+1. [main or file or image upload api](https://github.com/anupamkush9/images-and-files-handling-in-django/tree/main)
 
 ---
 
-### Gunicorn_Nginx_Docker_and_Django 4
+### 4) Gunicorn_Nginx_Docker_and_Django
 1. [main](https://github.com/anupamkush9/Gunicorn_Nginx_Docker_and_Django/tree/main)
 2. [serving-static-and-media-files-using-nginx-and-docker-named-volume](https://github.com/anupamkush9/Gunicorn_Nginx_Docker_and_Django/tree/serving-static-and-media-files-using-nginx-and-docker-named-volume)
 3. [Environment-variable-passing-in-docker-compose-by-dot-env-file](https://github.com/anupamkush9/Gunicorn_Nginx_Docker_and_Django/tree/Environment-variable-passing-in-docker-compose-by-dot-env-file)
@@ -147,13 +147,13 @@ I am a highly skilled Software Engineer with over 3 years of experience in the f
 
 ---
 
-### blogging-project 5
+### 5) blogging-project
 1. [main](https://github.com/anupamkush9/blogging-project/tree/main)
 2. [permission-for-blog-table-implemented-by-UserPermissionCredit](https://github.com/anupamkush9/blogging-project/tree/permission-for-blog-table-implemented-by-UserPermissionCredit)
 
 ---
 
-### DRF-complete-practice 6
+### 6) DRF-complete-practice
 1. [main](https://github.com/anupamkush9/DRF-complete-practice/tree/main)
 2. [django-filters-implementation-for-searching-ordering-filtering](https://github.com/anupamkush9/DRF-complete-practice/tree/django-filters-implementation-for-searching-ordering-filtering)
 3. [search-filter-in-api](https://github.com/anupamkush9/DRF-complete-practice/tree/search-filter-in-api)
@@ -173,13 +173,13 @@ I am a highly skilled Software Engineer with over 3 years of experience in the f
 
 ---
 
-### Flipcart_scrapping_with_django 7
+### 7) Flipcart_scrapping_with_django
 1. [main](https://github.com/anupamkush9/Flipcart_scrapping_with_django/tree/main)
 2. [Dynamically-displaying-validation-error-message-on-ui-after-form-submission](https://github.com/anupamkush9/Flipcart_scrapping_with_django/tree/Dynamically-displaying-validation-error-message-on-ui-after-form-submission)
 
 ---
 
-### dockerizing-python-js-simple-file 8
+### 8) dockerizing-python-js-simple-file
 1. [main](https://github.com/anupamkush9/dockerizing-python-js-simple-file/tree/main)
 2. [setting-and-overridding-environment-variable-in-docker](https://github.com/anupamkush9/dockerizing-python-js-simple-file/tree/setting-and-overridding-environment-variable-in-docker)
 3. [dockerizing-simple-python-prog-and-node-program](https://github.com/anupamkush9/dockerizing-python-js-simple-file/tree/dockerizing-simple-python-prog-and-node-program)
@@ -188,20 +188,20 @@ I am a highly skilled Software Engineer with over 3 years of experience in the f
 
 ---
 
-### Jenkins_cicd 9
+### 9) Jenkins_cicd
 1. [main](https://github.com/anupamkush9/Jenkins_cicd/tree/main)
 2. [two-database-configuration-in-django](https://github.com/anupamkush9/Jenkins_cicd/tree/two-database-configuration-in-django)
 
 ---
 
-### docker-concept 10
+### 10) docker-concept
 1. [main](https://github.com/anupamkush9/docker-concept/tree/main)
 2. [docker-with-database](https://github.com/anupamkush9/docker-concept/tree/docker-with-database)
 
 
 ---
 
-### Celery_and_Celerybeat_concept 11
+### 11) Celery_and_Celerybeat_concept
 1. [main](https://github.com/anupamkush9/Celery_and_Celerybeat_concept/tree/main)
 2. [docker-and-docker-compose.yml](https://github.com/anupamkush9/Celery_and_Celerybeat_concept/tree/docker-and-docker-compose.yml)
 3. [celery_concept_explained](https://github.com/anupamkush9/Celery_and_Celerybeat_concept/tree/celery_concept_explained)
@@ -210,7 +210,7 @@ I am a highly skilled Software Engineer with over 3 years of experience in the f
 
 ---
 
-### Django-Concept 12
+### 12) Django-Concept
 1. [main](https://github.com/anupamkush9/Django-Concept/tree/main)
 2. [select-related-and-prefetch-in-django-b3](https://github.com/anupamkush9/Django-Concept/tree/select-related-and-prefetch-in-django-b3)
 3. [stripe-integration-b5](https://github.com/anupamkush9/Django-Concept/tree/stripe-integration-b5)
@@ -219,7 +219,7 @@ I am a highly skilled Software Engineer with over 3 years of experience in the f
 
 ---
 
-### websocket 13
+### 13) websocket
 1. [main](https://github.com/anupamkush9/websocket/tree/main)
 2. [websocket-client-server-communication-done](https://github.com/anupamkush9/websocket/tree/websocket-client-server-communication-done)
 3. [get_realtime_of_modelchanges_with_postsavesignal_and_channels_or_alternate_of_long_polling](https://github.com/anupamkush9/websocket/tree/get_realtime_of_modelchanges_with_postsavesignal_and_channels_or_alternate_of_long_polling)
