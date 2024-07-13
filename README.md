@@ -105,7 +105,7 @@ I am a highly skilled Software Engineer with over 3 years of experience in the f
   6. [api-for-sending-mail](https://github.com/anupamkush9/django_notes/tree/api-for-sending-mail)
   7. [custom-filter-tag-and-custom-template-tag](https://github.com/anupamkush9/django_notes/tree/custom-filter-tag-and-custom-template-tag)
   8. [dockerize-the-project-with-cors](https://github.com/anupamkush9/django_notes/tree/dockerize-the-project-with-cors)
-  9. [file-download-on-the-go-from-source-url-encoding](https://github.com/anupamkush9/django_notes/tree/file-download-on-the-go-from-source-url-encoding)
+  9. [file-download-on-the-go-from-source-url-encoding or file_download view](https://github.com/anupamkush9/django_notes/tree/file-download-on-the-go-from-source-url-encoding)
   10. [get_urls-implemented-in-admin-panel](https://github.com/anupamkush9/django_notes/tree/get_urls-implemented-in-admin-panel)
   11. [implement_caching_in_redis](https://github.com/anupamkush9/django_notes/tree/implement_caching_in_redis)
   12. [js_and_css_admin_panel_customization](https://github.com/anupamkush9/django_notes/tree/js_and_css_admin_panel_customization)
