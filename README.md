@@ -26,16 +26,10 @@ I am a highly skilled Software Engineer with over 3 years of experience in the f
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-
-  <a href="https://linkedin.com/in/anupam-kushwaha-profile" 
-  target="blank">
-![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0065c6)
-  </a>
-  <a href="https://www.youtube.com/@placementupdatesbyanupam1425/videos" target="blank">
-![YouTube](https://img.shields.io/badge/-YouTube-000?&logo=YouTube&logoColor=ff0014)
-  </a>
-  <a href="https://www.hackerrank.com/0829cs161025_anu" target="blank">![HackerRank](https://img.shields.io/badge/-HackerRank-000?&logo=HackerRank)
-  </a>
+  <a href="https://linkedin.com/in/anupam-kushwaha-profile" target="blank">![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0065c6)</a>
+  <a href="https://www.youtube.com/@placementupdatesbyanupam1425/videos" target="blank">![YouTube](https://img.shields.io/badge/-YouTube-000?&logo=YouTube&logoColor=ff0014)</a>
+  <a href="https://www.hackerrank.com/0829cs161025_anu" target="blank">![HackerRank](https://img.shields.io/badge/-HackerRank-000?&logo=HackerRank)</a>
+  <a href="https://anupamkush9.medium.com/" target="blank">![Medium](https://img.shields.io/badge/-Medium-000000?&logo=Medium)</a>
 </p>
 
 
