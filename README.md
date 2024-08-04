@@ -152,7 +152,7 @@ I am a highly skilled Software Engineer with over 3 years of experience in the f
 ---
 
 ### 5) blogging-project
-1. [main](https://github.com/anupamkush9/blogging-project/tree/main)
+1. [master](https://github.com/anupamkush9/blogging-project/tree/master)
 2. [permission-for-blog-table-implemented-by-UserPermissionCredit](https://github.com/anupamkush9/blogging-project/tree/permission-for-blog-table-implemented-by-UserPermissionCredit)
 
 ---
