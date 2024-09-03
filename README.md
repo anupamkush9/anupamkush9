@@ -156,6 +156,8 @@ I am a highly skilled Software Engineer with over 3 years of experience in the f
 2. [permission-for-blog-table-implemented-by-UserPermissionCredit](https://github.com/anupamkush9/blogging-project/tree/permission-for-blog-table-implemented-by-UserPermissionCredit)
 3. [testcases_in_django](https://github.com/anupamkush9/blogging-project/tree/testcases_in_django)
 4. [login_by_email_address_for django and jwt authentication](https://github.com/anupamkush9/blogging-project/tree/login_by_email_address)
+5. [storing-django-static-and-media-files-on-amazon-s3](https://github.com/anupamkush9/blogging-project/tree/storing-django-static-and-media-files-on-amazon-s3)
+6. [serve-s3-private-bucket-files-by-cloudfront-cdn](https://github.com/anupamkush9/blogging-project/tree/serve-s3-private-bucket-files-by-cloudfront-cdn)
 
 ---
 
