@@ -222,7 +222,7 @@ I am a highly skilled Software Engineer with over 3 years of experience in the f
 3. [stripe-integration-b5](https://github.com/anupamkush9/Django-Concept/tree/stripe-integration-b5)
 4. [working-with-2-databaseses-b4](https://github.com/anupamkush9/Django-Concept/tree/working-with-2-databaseses-b4)
 5. [django-debug-toolbar-b2](https://github.com/anupamkush9/Django-Concept/tree/django-debug-toolbar-b2)
-6. [django-debug-toolbar-concept-by-localsetting-and-docker-sh-command](https://github.com/anupamkush9/docker-concept/tree/django-debug-toolbar-concept-by-localsetting-and-docker-sh-command)
+6. [django-debug-toolbar-concept-by-localsetting-and-docker-sh-command](https://github.com/anupamkush9/Django-Concept/tree/django-debug-toolbar-concept-by-localsetting-and-docker-sh-command)
 ---
 
 ### 13) ds_algo
