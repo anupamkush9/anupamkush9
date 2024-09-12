@@ -100,7 +100,7 @@ I am a highly skilled Software Engineer with over 3 years of experience in the f
 ---
 
 ### 1) Django_notes
-  1. [main](https://github.com/anupamkush9/django_notes/tree/main)
+  1. [main | allauth (Social Authentication) ](https://github.com/anupamkush9/django_notes/tree/main)
   2. [Atomicity_concept_in_django](https://github.com/anupamkush9/django_notes/tree/Atomicity_concept_in_django)
   3. [Google-sso](https://github.com/anupamkush9/django_notes/tree/Google-sso)
   4. [add-custom-admin-form-in-adminpanel](https://github.com/anupamkush9/django_notes/tree/add-custom-admin-form-in-adminpanel)
