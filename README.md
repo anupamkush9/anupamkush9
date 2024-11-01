@@ -178,7 +178,7 @@ I am a highly skilled Software Engineer with over 3+ years of experience in the 
 14. [all-generic-api-is-implemented](https://github.com/anupamkush9/DRF-complete-practice/tree/all-generic-api-is-implemented)
 15. [search-operation-implemented-via-ListApiView](https://github.com/anupamkush9/DRF-complete-practice/tree/search-operation-implemented-via-ListApiView)
 16. [To-List-all-Employees-by-using-ListAPIView-Class](https://github.com/anupamkush9/DRF-complete-practice/tree/To-List-all-Employees-by-using-ListAPIView-Class)
-17. [custom_middleware_to_enforce_trailing_slash_for_post_patch_put_delete_http_method_in_debug_mode](https://github.com/anupamkush9/custom_middleware_to_enforce_trailing_slash_for_post_patch_put_delete_http_method_in_debug_mode)
+17. [custom_middleware_to_enforce_trailing_slash_for_post_patch_put_delete_http_method_in_debug_mode](https://github.com/anupamkush9/DRF-complete-practice/custom_middleware_to_enforce_trailing_slash_for_post_patch_put_delete_http_method_in_debug_mode)
 
 ---
 
