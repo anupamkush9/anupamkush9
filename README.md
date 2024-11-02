@@ -134,6 +134,8 @@ I am a highly skilled Software Engineer with over 3+ years of experience in the 
 5. [perms-variable-of-django-auth-context-processor](https://github.com/anupamkush9/Collections_of_movie_backend_assignment/tree/perms-variable-of-django-auth-context-processor)
 6. [PermissionRequiredMixin-in-class-based_view](https://github.com/anupamkush9/Collections_of_movie_backend_assignment/tree/PermissionRequiredMixin-in-class-based_view)
 7. [dockerize-project-with-postgres-db](https://github.com/anupamkush9/Collections_of_movie_backend_assignment/tree/dockerize-project-with-postgres-db)
+8. [AnonRateThrottle_throttling_and_UserRateThrottle_throttling](https://github.com/anupamkush9/Collections_of_movie_backend_assignment/tree/AnonRateThrottle_throttling_and_UserRateThrottle_throttling)
+9. [Throttling_by_ScopedRateThrottle_min_and_max](https://github.com/anupamkush9/Collections_of_movie_backend_assignment/tree/Throttling_by_ScopedRateThrottle_min_and_max)
 
 ---
 
