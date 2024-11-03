@@ -136,6 +136,7 @@ I am a highly skilled Software Engineer with over 3+ years of experience in the 
 7. [dockerize-project-with-postgres-db](https://github.com/anupamkush9/Collections_of_movie_backend_assignment/tree/dockerize-project-with-postgres-db)
 8. [AnonRateThrottle_throttling_and_UserRateThrottle_throttling](https://github.com/anupamkush9/Collections_of_movie_backend_assignment/tree/AnonRateThrottle_throttling_and_UserRateThrottle_throttling)
 9. [Throttling_by_ScopedRateThrottle_min_and_max](https://github.com/anupamkush9/Collections_of_movie_backend_assignment/tree/Throttling_by_ScopedRateThrottle_min_and_max)
+10. [custom_throttling_by_extending_BaseThrottle_and_override_allow_request_and_wait_method_in_drf](https://github.com/anupamkush9/Collections_of_movie_backend_assignment/tree/custom_throttling_by_extending_BaseThrottle_and_override_allow_request_and_wait_method_in_drf)
 
 ---
 
