@@ -142,6 +142,7 @@ I am a highly skilled Software Engineer with over 3+ years of experience in the 
 
 ### 3) images-and-files-handling-in-django
 1. [main or file or image upload api](https://github.com/anupamkush9/images-and-files-handling-in-django/tree/main)
+2. [custom_model_manager_in_django](https://github.com/anupamkush9/images-and-files-handling-in-django/tree/custom_model_manager_in_django)
 
 ---
 
