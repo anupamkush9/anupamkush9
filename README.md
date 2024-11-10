@@ -259,6 +259,7 @@ I am a highly skilled Software Engineer with over 3+ years of experience in the 
 20. [syncConsumer_vs_AsyncConsumer](https://github.com/anupamkush9/websocket/tree/syncConsumer_vs_AsyncConsumer)
 21. [syncConsumer_and_AsyncConsumer_example](https://github.com/anupamkush9/websocket/tree/syncConsumer_and_AsyncConsumer_example)
 
+---
 
-
-
+### 15) rabbitmq_and_celery_concept
+1. [main](https://github.com/anupamkush9/rabbitmq_and_celery_concept/tree/main)
