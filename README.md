@@ -231,6 +231,8 @@ I am a highly skilled Software Engineer with over 3+ years of experience in the 
 5. [django-debug-toolbar-b2](https://github.com/anupamkush9/Django-Concept/tree/django-debug-toolbar-b2)
 6. [django-debug-toolbar-concept-by-localsetting-and-docker-sh-command](https://github.com/anupamkush9/Django-Concept/tree/django-debug-toolbar-concept-by-localsetting-and-docker-sh-command)
 7. [sending-simple-email-in-django](https://github.com/anupamkush9/Django-Concept/tree/sending-simple-email-in-django)
+8. [sending-email-in-django](https://github.com/anupamkush9/Django-Concept/tree/sending-email-in-django)
+
 ---
 
 ### 13) ds_algo
