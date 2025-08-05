@@ -164,6 +164,7 @@ I am a highly skilled Software Engineer with over 3+ years of experience in the 
 5. [storing-django-static-and-media-files-on-amazon-s3](https://github.com/anupamkush9/blogging-project/tree/storing-django-static-and-media-files-on-amazon-s3)
 6. [serve-s3-private-bucket-files-by-cloudfront-cdn](https://github.com/anupamkush9/blogging-project/tree/serve-s3-private-bucket-files-by-cloudfront-cdn)
 7. [custom_middleware_for_capturing_client_ip_address_and_filter_queryset_on_the_basis_of_ip_address](https://github.com/anupamkush9/blogging-project/tree/custom_middleware_for_capturing_client_ip_address_and_filter_queryset_on_the_basis_of_ip_address)
+8. [actions_in_admin_panel_for_Todo_and_Blog_model](https://github.com/anupamkush9/blogging-project/tree/actions_in_admin_panel_for_Todo_and_Blog_model)
 
 ---
 
