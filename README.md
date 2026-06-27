@@ -1,7 +1,7 @@
 <h1 align="center">
   Hi there, This is Anupam Kushwaha!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  <h3 align="center">Senior Software Engineer from Indore, India</h3>
+  <h3 align="center">Senior Software Engineer</h3>
 </h1>
 
 <br>
